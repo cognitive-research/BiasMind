@@ -5,7 +5,7 @@ This project contains the data and code for **Discover Cognitive Biases via Neur
 ## Project Overview
 
 This project discovers cognitive biases through neural-symbolic induction methods BiasMind.
-Due to file size limitations, the Our NewsCog dataset is available at the following link. https://drive.google.com/drive/folders/1SHwZ13HzBehWKt4HmK1Q6_uXNsIsjg1U?dmr=1&ec=wgc-drive-hero-goto
+Due to file size limitations, our NewsCog dataset is available at the following link. https://drive.google.com/drive/folders/1SHwZ13HzBehWKt4HmK1Q6_uXNsIsjg1U?dmr=1&ec=wgc-drive-hero-goto
 Please download it and place it in the data/ folder.
 
 
